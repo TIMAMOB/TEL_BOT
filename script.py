@@ -2,7 +2,7 @@ import telebot
 import sqlite3
 
 
-token = '8748704494:AAE_1GvGUF1Z7dziyDfI8vZkphk26Nt70ss'
+token = 'token-botfather'
 bot = telebot.TeleBot(token)
 user_data = {}
 ADMIN_ID = 6415054214
